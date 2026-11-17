@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 296" width="840" height="296" role="img" aria-labelledby="t d">
+  <title id="t">Featured project: Angel</title>
+  <desc id="d">Angel, the bratty diva who runs your server. An all-in-one Discord bot: moderation, AI orders, economy, levels, games and pets, music, a ticket desk and a web dashboard at archie.nxtr.in.</desc>
+  <style>
+    text { font-family: 'JetBrains Mono', ui-monospace, 'Cascadia Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .p { font-family: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+    .fg { fill: #eef6ff; } .dim { fill: #b3c3d6; } .mute { fill: #8597ad; } .faint { fill: #4f5d73; } .acc { fill: #a8dcff; }
+    .art { font-size: 11px; fill: #6aaee0; }
+    .row { font-size: 13px; }
+    .a { animation: fa 1.8s steps(1) infinite; }
+    .b { opacity: 0; animation: fb 1.8s steps(1) infinite; }
+    @keyframes fa { 50% { opacity: 0; } }
+    @keyframes fb { 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .a, .b { animation: none; } }
+  </style>
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#1c2536"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="295" rx="3" fill="#05070c" stroke="#2b3850"/>
+  <rect x="1" y="1" width="838" height="294" rx="3" fill="url(#dots)"/>
+
+  <text x="24" y="36" font-size="13" xml:space="preserve"><tspan class="fg" font-weight="700">arch@angel</tspan><tspan class="mute">:~$</tspan><tspan class="fg"> ./featured</tspan></text>
+  <text x="24" y="68" font-size="22" font-weight="700" xml:space="preserve"><tspan class="fg">Angel.</tspan><tspan class="mute"> The bratty diva who runs your server.</tspan></text>
+
+  <!-- ascii wordmark, two frames -->
+  <rect x="24.5" y="88.5" width="439" height="150" rx="2" fill="#020306" stroke="#2b3850"/>
+  <rect x="24" y="88" width="2" height="151" fill="#a8dcff"/>
+  <text class="art a" xml:space="preserve"><tspan x="58" y="112">.     .:000=. .. .      . .   .  .       .    . +0#=   .</tspan><tspan x="58" dy="13">.    .+0##00+  .   . .                  ...   . :#0%.  .</tspan><tspan x="58" dy="13">.  .  0#0:000   -##00#%0+  =00%0-##%  :#%00#0=  :0##   .</tspan><tspan x="58" dy="13">.   .=#%% 0#0-. :##0==0#0: 00#:+0%0# +000+ =#0= =#00   .</tspan><tspan x="58" dy="13">. . =#00##0000- -000 .000-+##0  =0#0 -00#%#%#00 -%00   .</tspan><tspan x="58" dy="13">.   #00%0#0##00 =00%  %00= %##00000# =%#0==-=+= =##0   .</tspan><tspan x="58" dy="13">.  +00#   .=000=+%#=  0##=. ===::0#0  +=%#0#0=. -#0=  ..</tspan><tspan x="58" dy="13">. ..        .  ..   ..    .0#0%:###+.                  .</tspan><tspan x="58" dy="13">.   .              .   ..  .+:0#%-: .                  .</tspan></text>
+  <text class="art b" xml:space="preserve"><tspan x="58" y="112">.     .-%0#= .           ...   .        .  . .  :%#-.  .</tspan><tspan x="58" dy="13">.     =00000+   . .   .  .  .                   =0#0   .</tspan><tspan x="58" dy="13">.     #0#=#%#   =##0#00%= .+00%0:0%0  :00%#0#:  +0##   .</tspan><tspan x="58" dy="13">..   :000 ##0=  -#00+-0##-.0#0+:##0# -000= +#0= +0%#. ..</tspan><tspan x="58" dy="13">.  .+00%##0#0#= -%%0  #00=+0%0  =#0# =#%#%000## +0%0   .</tspan><tspan x="58" dy="13">. ..0#0000#0%0# +0##. %#%- #%0##0#%# -000+::+=: :#%%   .</tspan><tspan x="58" dy="13">.  -#0#   .+0%#-+00=  %0%-  ==+=:#00. -=0#0#%= .-#0+  ..</tspan><tspan x="58" dy="13">.          .      .        %00#:##%=   .               .</tspan><tspan x="58" dy="13">.       .  ..       .       -+##%+-                .   .</tspan></text>
+
+  <!-- feature index -->
+  <rect x="488.5" y="88.5" width="327" height="150" rx="2" fill="#0a0e16" stroke="#2b3850"/>
+  <rect x="652" y="89" width="1" height="149" fill="#1c2536"/>
+  <g class="row">
+    <text x="506" y="118"><tspan class="faint">01 </tspan><tspan class="fg" font-weight="700">Moderation</tspan></text>
+    <text x="506" y="150"><tspan class="faint">02 </tspan><tspan class="fg" font-weight="700">AI orders</tspan></text>
+    <text x="506" y="182"><tspan class="faint">03 </tspan><tspan class="fg" font-weight="700">Economy</tspan></text>
+    <text x="506" y="214"><tspan class="faint">04 </tspan><tspan class="fg" font-weight="700">Levels</tspan></text>
+    <text x="670" y="118"><tspan class="faint">05 </tspan><tspan class="fg" font-weight="700">Games &amp; pets</tspan></text>
+    <text x="670" y="150"><tspan class="faint">06 </tspan><tspan class="fg" font-weight="700">Music</tspan></text>
+    <text x="670" y="182"><tspan class="faint">07 </tspan><tspan class="fg" font-weight="700">Ticket desk</tspan></text>
+    <text x="670" y="214"><tspan class="faint">08 </tspan><tspan class="fg" font-weight="700">Dashboard</tspan></text>
+  </g>
+
+  <text x="24" y="270" font-size="13" xml:space="preserve"><tspan class="mute">$</tspan><tspan class="dim"> open </tspan><tspan class="acc">archie.nxtr.in</tspan></text>
+  <text x="816" y="270" font-size="13" class="p mute" text-anchor="end">Time is a servant here.</text>
+</svg>
