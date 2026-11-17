@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="840" alt="Arch (ANGEL_IS_DEAD). I make Discord bots with too much attitude. Building Angel, an all-in-one Discord bot. Stack: Python, Red-DiscordBot, PostgreSQL.">
+<img src="assets/hero.svg" width="840" alt="Arch (Arch-Axgel). I make Discord bots with too much attitude. Building Angel, an all-in-one Discord bot. Stack: Python, Red-DiscordBot, PostgreSQL.">
 
 <p>
 <a href="https://discord.com/oauth2/authorize?client_id=1559204351191294095&scope=bot+applications.commands&permissions=1392512462039"><img src="assets/btn-invite.svg" height="44" alt="Invite Angel"></a>

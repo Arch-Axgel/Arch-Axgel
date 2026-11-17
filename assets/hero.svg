@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 440" width="840" height="440" role="img" aria-labelledby="t d">
-  <title id="t">Arch (ANGEL_IS_DEAD)</title>
+  <title id="t">Arch (Arch-Axgel)</title>
   <desc id="d">Terminal-style profile card. Arch makes Angel, an all-in-one Discord bot. Stack: Python, Red-DiscordBot, PostgreSQL. Dashboard at archie.nxtr.in.</desc>
   <style>
     text { font-family: 'JetBrains Mono', ui-monospace, 'Cascadia Mono', 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; }
@@ -33,7 +33,7 @@
   <rect x="1" y="1" width="838" height="438" rx="3" fill="url(#dots)"/>
 
   <!-- title bar -->
-  <text x="24" y="21" font-size="12" class="mute">arch@github: ~/ANGEL-IS-DEAD</text>
+  <text x="24" y="21" font-size="12" class="mute">arch@github: ~/Arch-Axgel</text>
   <text x="816" y="21" font-size="12" class="mute" text-anchor="end">tty1 · utf-8</text>
   <rect x="1" y="32" width="838" height="1" fill="#1c2536"/>
 
@@ -56,7 +56,7 @@
 
   <g class="term">
     <g class="ln l1"><text x="488" y="136" class="ok">[ ok ]</text><text x="543" y="136" class="dim">name</text><text x="621" y="136" class="dim">arch</text></g>
-    <g class="ln l2"><text x="488" y="158" class="ok">[ ok ]</text><text x="543" y="158" class="dim">alias</text><text x="621" y="158" class="dim">ANGEL_IS_DEAD</text></g>
+    <g class="ln l2"><text x="488" y="158" class="ok">[ ok ]</text><text x="543" y="158" class="dim">alias</text><text x="621" y="158" class="dim">Arch-Axgel</text></g>
     <g class="ln l3"><text x="488" y="180" class="ok">[ ok ]</text><text x="543" y="180" class="dim">building</text><text x="621" y="180" class="dim">angel</text></g>
     <g class="ln l4"><text x="488" y="202" class="ok">[ ok ]</text><text x="543" y="202" class="dim">stack</text><text x="621" y="202" class="dim">python · postgres</text></g>
     <g class="ln l5"><text x="488" y="224" class="ok">[ ok ]</text><text x="543" y="224" class="dim">attitude</text><text x="621" y="224" class="dim">inherited</text></g>
